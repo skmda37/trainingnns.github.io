@@ -5,6 +5,9 @@
 This guide is for anyone who wants to start working with neural networks but has little to no prior experience and does not know where to start. It can useful if you are a math student, a life scientist or anyone else interested in data analysis. 
 We will cover basic concepts, as well as programming tools, that you need to get started with neural networks. The guide is organized into sections as in the map above and you can read it in the order that is most convenient for you, as well as skip some sections altogether if you are familiar with concepts covered in them.
 
+
+This website provides a comprehensive overview of resources that can help you get started with training neural networks and if you are interested eventually perform research/work on or with neural networks. For a beginner this may very well be at first overwhelming. If neural nets are completely new to you we recommend to first familiriarize yourself with the basics of neural networks (see Section 2 Neural Network Basics) and then try tinker around with neural networks on the  [Tensorflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.40188&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false). No programming is required for the playground
+
 # Table of Contents
 1. [Math Background](#math_background) 
 2. [Neural Network Basics](#nns_basics)
